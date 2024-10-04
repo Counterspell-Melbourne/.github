@@ -5,7 +5,7 @@
 - Treat everyone with respect and kindness.
 - Be thoughtful in how you communicate.
 - Don't be destructive or inflammatory.
-- If you encounter an issue, please mail <abuse@counterspellmelbourne.com>.
+- If you encounter an issue, please mail <contact@counterspellmelbourne.com>.
 
 ## Why have a Code of Conduct?
 
@@ -80,7 +80,7 @@ The Working Group is responsible for handling conduct-related issues. Their miss
 
 If you encounter a conduct-related issue, you should report it to the Working Group using the process described below. **Do not** post about the issue publicly or try to rally sentiment against a particular individual or group.
 
-- Mail <abuse@counterspellmelbourne.com>
+- Mail <contact@counterspellmelbourne.com>
   - Your message will reach the Working Group.
   - Reports are confidential within the Working Group.
   - Should you choose to remain anonymous then the Working Group cannot notify you of the outcome of your report.
