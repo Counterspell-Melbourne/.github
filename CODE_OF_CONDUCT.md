@@ -5,7 +5,7 @@
 - Treat everyone with respect and kindness.
 - Be thoughtful in how you communicate.
 - Don't be destructive or inflammatory.
-- If you encounter an issue, please mail both <brandon@counterspellmelbourne.com> and <josh@counterspellmelbourne.com>.
+- If you encounter an issue, please mail <conduct@counterspellmelbourne.com>.
 
 ## Why have a Code of Conduct?
 
@@ -71,17 +71,16 @@ Please understand that speech and actions have consequences, and unacceptable be
 
 This procedure only serves as a general guideline for moderation & enforcement of our community conduct. Under all circumstances, the Working Group or Counterspell Melbourne's staff members may take any action we deem appropriate, including immediate removal from the community. Being banned from the Counterspell Melbourne community may also prevent you from participating in our community events, including but not restricted to: local club meetings, hackathons, or challenges.
 
-Please understand that we will not restrict your ability to contact the [Code of Conduct working group](#working-group) under any circumstance. If you have any questions or concerns about our decision, please reach out to us directly. If your Slack account is under suspension, email us directly at <conduct@hackclub.com>.
-
+Please understand that we will not restrict your ability to contact the [Code of Conduct working group](#working-group) under any circumstance. If you have any questions or concerns about our decision, please reach out to us directly.
 ## Working Group
 
-The Working Group is responsible for handling conduct-related issues. Their mission is to de-escalate conflicts and try to resolve issues to the satisfaction of all parties. For all [projects related to and/or maintained by Counterspell Melbourne HQ](#where-does-the-code-of-conduct-apply), the Working Group is made up of the [Counterspell Melbourne staff team](https://hackclub.com/team/) and [Community team](https://app.slack.com/client/T0266FRGM/C01D7AHKMPF). The specific team member(s) handling each violation depend on the location and nature of the issue.
+The Working Group is responsible for handling conduct-related issues. Their mission is to de-escalate conflicts and try to resolve issues to the satisfaction of all parties. For all [projects related to and/or maintained by Counterspell Melbourne HQ](#where-does-the-code-of-conduct-apply), the Working Group is made up of the [Counterspell Melbourne staff team](https://github.com/orgs/CounterspellMelbourne/people). The specific team member(s) handling each violation depend on the location and nature of the issue.
 
 ## Reporting Issues
 
 If you encounter a conduct-related issue, you should report it to the Working Group using the process described below. **Do not** post about the issue publicly or try to rally sentiment against a particular individual or group.
 
-- Mail <brandon@counterspellmelbourne.com> and <josh@counterspellmelbourne.com>
+- Mail <conduct@counterspellmelbourne.com>
   - Your message will reach the Working Group.
   - Reports are confidential within the Working Group.
   - Should you choose to remain anonymous then the Working Group cannot notify you of the outcome of your report.
